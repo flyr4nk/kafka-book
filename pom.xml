@@ -25,9 +25,9 @@
     <properties>
         <scala.version>2.11.7</scala.version>
         <scalaBin.version>2.11</scalaBin.version>
-        <kafka.version>0.10.2.1</kafka.version>
+        <kafka.version>2.1.1</kafka.version>
         <rocketmq.version>3.2.6</rocketmq.version>
-        <avro.version>1.7.7</avro.version>
+        <avro.version>1.10.0</avro.version>
         <confluent.version>3.0.1</confluent.version>
 
         <spark.version>2.1.1</spark.version>
